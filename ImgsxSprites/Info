@@ -4,3 +4,5 @@ mentre quella specie di carro armato verde deve essere 19x28. le esplosioni rita
 nel file ImgxSprite4.png ci stanno i powerup devono essere quadrati 16x16
 file ImgxSprite3.png. non mi servono le sprite con i palazzi e quella con il terreno, ritaglia le altre (sempre 16x16) e cancella il terreno dallo sfondo se c'è,
 perchè mi serve che abbiano lo sfondo trasparente.
+
+per ora mi servono queste forse più avanti mi servirà altro.
