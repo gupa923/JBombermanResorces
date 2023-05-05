@@ -1,0 +1,6 @@
+la dimensione del Bomberman è 16 larghezza e 24 altezza. ignora gli sprite minuscoli nel file del bomberman
+file World1-enemies. tutti i nemici devono essere in un rettangolo 16x24 tranne uno che è una specie di sfera celeste con un occhio solo che deve essere 16x16,
+mentre quella specie di carro armato verde deve essere 19x28. le esplosioni ritagliale in modo che il rettangolo dove stanno non sia troppo grande per contenerle.
+nel file ImgxSprite4.png ci stanno i powerup devono essere quadrati 16x16
+file ImgxSprite3.png. non mi servono le sprite con i palazzi e quella con il terreno, ritaglia le altre (sempre 16x16) e cancella il terreno dallo sfondo se c'è,
+perchè mi serve che abbiano lo sfondo trasparente.
