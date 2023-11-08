@@ -1,0 +1,4 @@
+Dal png imgsxSprites/ImgsxSprite3.png ritagliare e mettere in un png a parte le animazioni dell'ostacolo: prima riga, sprite dalla 5 alla 8. Rimuovere gli offset. NON rimuovere lo sfondo
+Dallo stesso file ritagliare e mettere in un png a parte le animazioni dell'esplosione dell'ostacolo: nona riga, sprite da 1 a 6. Rimuovere gli offset. Non riuovere lo sfondo.
+Dal png ImgsxSprites/World1Enemies.png ritagliare fare 4 png conteneti le sprite del nemico rosso. i png devono contenere rispettivamente: le prima 4 sprite della prima riga, le 4 centrali, le ultime 4 del nemico rosso e infine l'ultimo png deve contenere le prime 4 sprite ruotate.
+Dallo stesso file fai un png con le sprite del secondo nemico nella prima riga.
